@@ -1,12 +1,12 @@
-## 📱 README pour le Dépôt Frontend (Web & Mobile)
+## README pour le Dépôt Frontend (Web & Mobile)
 
-### 🖥️ Plateforme SaaS de Gestion Commerciale - Frontend & Mobile
+###  Plateforme SaaS de Gestion Commerciale - Frontend & Mobile
 
 Ce dépôt regroupe les clients de l'API : l'application **Web (React)** pour les opérations avancées/administration et l'application **Mobile (Flutter)** pour la gestion rapide des ventes/stocks et le mode hors ligne.
 
 -----
 
-### 🌐 Application Web (React)
+###  Application Web (React)
 
 Utilisée par les **Administrateurs** (interface complète) et les **Commerçants** (opérations avancées, rapports). 
 
@@ -19,7 +19,7 @@ Utilisée par les **Administrateurs** (interface complète) et les **Commerçant
 
 -----
 
-### 📱 Application Mobile (Flutter)
+### Application Mobile (Flutter)
 
 Utilisée principalement par les **Vendeurs** et les **Commerçants** pour les transactions rapides et le travail **hors ligne**.
 
@@ -32,7 +32,7 @@ Utilisée principalement par les **Vendeurs** et les **Commerçants** pour les t
 
 -----
 
-### 🛠️ Démarrage Local
+### Démarrage Local
 
 #### 1\. Configuration (Commune)
 
